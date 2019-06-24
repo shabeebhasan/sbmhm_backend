@@ -1,0 +1,10 @@
+django
+python-dotenv
+psycopg2-binary
+django-allauth
+django-adminplus
+celery
+redis
+whitenoise
+djangorestframework
+graphene-django
